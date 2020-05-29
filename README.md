@@ -26,8 +26,8 @@ Getting all those benefits for a manager or HR is really simple and at a click o
 
 2. <a href="https://vcadmin0001.github.io/Reports/" target="_blank">Reports</a>
 
-3. Analytics
+3. <a href="https://vcadmin0001.github.io/Analytics/" target="_blank">Analytics</a>
 
-4. Configuration
+4. <a href="https://vcadmin0001.github.io/Configuration/" target="_blank">Configuration</a>
 
-5. Company
+5. <a href="" target="_blank">Company</a>
