@@ -24,7 +24,7 @@ Getting all those benefits for a manager or HR is really simple and at a click o
  
 1. <a href="https://vcadmin0001.github.io/Overview/" target="_blank">Overview</a>
 
-2. Reports
+2. <a href="https://vcadmin0001.github.io/Reports/" target="_blank">Reports</a>
 
 3. Analytics
 
