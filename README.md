@@ -30,4 +30,4 @@ Getting all those benefits for a manager or HR is really simple and at a click o
 
 4. <a href="https://vcadmin0001.github.io/Configuration/" target="_blank">Configuration</a>
 
-5. <a href="" target="_blank">Company</a>
+5. <a href="https://vcadmin0001.github.io/Company/" target="_blank">Company</a>
