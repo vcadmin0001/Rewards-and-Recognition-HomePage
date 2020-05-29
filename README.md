@@ -6,9 +6,13 @@
 Here are a few benefits you can expect by going onboard with Vantage Circle-
 <ol>
   <li>Increase engagement and employee productivity.</li>
+  
   <li>A seamless experience of rewarding and recognizing employees</li>
+  
   <li>Gain insight and visibility on the high performers.</li>
+  
   <li>Make wishing employees an effortless experience.</li>
+  
   </ol>
 
 
