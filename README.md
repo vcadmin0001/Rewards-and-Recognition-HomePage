@@ -1,28 +1,37 @@
 		  
-# Overview
+# Rewards and Recognition Documentation
 
-This is the overview section of Vantage Rewards. Here you can see graphical representation of the rewards timeline, users rewarded, type of reward, department wise rewards, status, and city. 
+## Benefits For Managers/HRs
 
-![Overview](https://user-images.githubusercontent.com/48199047/83106476-273f5c80-a0da-11ea-8058-e4390d969d95.png)
-
-On the top select the period for which you want all the data in this section to be displayed. The options are-
-1. This Month
-2. This Quarter
-3. This Year
-4. Overall
-
-Select the required country from the drop down menu. 
-
-On top of the charts/graphs, you are also displayed the data regarding the total number of points, users awarded and total points processed till past midnight. 
-
-**Rewards Timeline**- In this dashboard, you can see the number of points awarded according to week or month. The horizontal axis specifies the time period i.e month/week and the vertical axis specifies the number of points. 
-
-**Users Rewarded Timeline**- Through this analytics, you can see the number of employees rewarded in a period of time(weekly/monthly). The horizontal axis specifies the time period and the vertical axis specifies the number of employees rewarded. 
+Here are a few benefits you can expect by going onboard with Vantage Circle-
+<ol>
+  <li>Increase engagement and employee productivity.</li>
+  
+  <li>A seamless experience of rewarding and recognizing employees</li>
+  
+  <li>Gain insight and visibility on the high performers.</li>
+  
+  <li>Make wishing employees an effortless experience.</li>
+  
+  </ol>
 
 
-**Rewards By Status**- Here you can see the analytics of the percentage of reward points allocated vs percentage of reward points yet to be allocated. 
+## Resources
 
-**Rewards by City**- This pie chart shows you the number of awards according to the top cities to which the award is rewarded.</div>
+Getting all those benefits for a manager or HR is really simple and at a click of a button. Proper delegation of work is easier and employees recognize each other’s efforts. As a Super Admin, you can decide the level of authority you want your subordinates to have.
+
+## Sections
+ 
+1. <a href="https://vcadmin0001.github.io/Overview/" target="_blank">Overview</a>
+
+2. <a href="https://vcadmin0001.github.io/Reports/" target="_blank">Reports</a>
+
+3. <a href="https://vcadmin0001.github.io/Analytics/" target="_blank">Analytics</a>
+
+4. <a href="https://vcadmin0001.github.io/Configuration/" target="_blank">Configuration</a>
+
+5. <a href="https://vcadmin0001.github.io/Company/" target="_blank">Company</a>
+
           
 
 
