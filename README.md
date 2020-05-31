@@ -1,35 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Side Navigation Bar</title>
-	<link rel="stylesheet" href="styles.css">
-	<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
-</head>
-<body>
-
-<div class="wrapper">
-    <div class="sidebar">
-        <h2>Contents</h2>
-        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#Overview">Overview</a></li>
-            <li><a href="#">Reports</a></li>
-            <li><a href="#">Analytics</a></li>
-            <li><a href="#">Configuration</a></li>
-            <li><a href="#">Company</a></li>
-      
-        </ul> 
-        <div class="social_media">
-          <a href="#"><i class="fab fa-facebook-f"></i></a>
-          <a href="#"><i class="fab fa-twitter"></i></a>
-          <a href="#"><i class="fab fa-instagram"></i></a>
-      </div>
-    </div>
-    <div class="main_content">
-        <div class="header">Rewards and Recognition Documentation</div>  
-        <div class="info">
-          <div>
 		  
 # Overview
 
@@ -56,9 +24,5 @@ On top of the charts/graphs, you are also displayed the data regarding the total
 
 **Rewards by City**- This pie chart shows you the number of awards according to the top cities to which the award is rewarded.</div>
           
-</div>
-
-</body>
-</html>
 
 
